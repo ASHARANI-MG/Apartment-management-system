@@ -4,6 +4,6 @@ DBMS PROJECT(MySQL)
 
 USERNAME:admin
 
-PASSWORD:Password@123
+PASSWORD:junior
 
 DATABASE NAME:apartment-visitor-nb
