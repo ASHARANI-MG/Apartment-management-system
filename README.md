@@ -1,6 +1,6 @@
 # Apartment-management-system
 
-DBMS PROJECT(MySQL)
+DBMS MINI PROJECT(MySQL)
 
 USERNAME:admin
 
